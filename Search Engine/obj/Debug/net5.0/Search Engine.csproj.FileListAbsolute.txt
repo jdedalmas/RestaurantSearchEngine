@@ -1,0 +1,35 @@
+/Users/jeandedalmas/RiderProjects/Search Engine/Search Engine/obj/Debug/net5.0/Search Engine.csprojAssemblyReference.cache
+/Users/jeandedalmas/RiderProjects/Search Engine/Search Engine/obj/Debug/net5.0/Search Engine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeandedalmas/RiderProjects/Search Engine/Search Engine/obj/Debug/net5.0/Search Engine.AssemblyInfoInputs.cache
+/Users/jeandedalmas/RiderProjects/Search Engine/Search Engine/obj/Debug/net5.0/Search Engine.AssemblyInfo.cs
+/Users/jeandedalmas/RiderProjects/Search Engine/Search Engine/obj/Debug/net5.0/Search Engine.csproj.CoreCompileInputs.cache
+/Users/jeandedalmas/RiderProjects/Search Engine/Search Engine/bin/Debug/net5.0/Search Engine.deps.json
+/Users/jeandedalmas/RiderProjects/Search Engine/Search Engine/bin/Debug/net5.0/Search Engine.runtimeconfig.json
+/Users/jeandedalmas/RiderProjects/Search Engine/Search Engine/bin/Debug/net5.0/Search Engine.runtimeconfig.dev.json
+/Users/jeandedalmas/RiderProjects/Search Engine/Search Engine/bin/Debug/net5.0/Search Engine.dll
+/Users/jeandedalmas/RiderProjects/Search Engine/Search Engine/bin/Debug/net5.0/ref/Search Engine.dll
+/Users/jeandedalmas/RiderProjects/Search Engine/Search Engine/bin/Debug/net5.0/Search Engine.pdb
+/Users/jeandedalmas/RiderProjects/Search Engine/Search Engine/obj/Debug/net5.0/Search Engine.dll
+/Users/jeandedalmas/RiderProjects/Search Engine/Search Engine/obj/Debug/net5.0/ref/Search Engine.dll
+/Users/jeandedalmas/RiderProjects/Search Engine/Search Engine/obj/Debug/net5.0/Search Engine.pdb
+/Users/jeandedalmas/RiderProjects/Search Engine/Search Engine/obj/Debug/net5.0/Search Engine.genruntimeconfig.cache
+/Users/jeandedalmas/RiderProjects/Search Engine/Search Engine/bin/Debug/net5.0/CsvHelper.dll
+/Users/jeandedalmas/RiderProjects/Search Engine/Search Engine/obj/Debug/net5.0/Search Engine.csproj.CopyComplete
+/Users/jeandedalmas/RiderProjects/Search Engine/Search Engine/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/jeandedalmas/RiderProjects/Search Engine copy/Search Engine/bin/Debug/net5.0/Search Engine.deps.json
+/Users/jeandedalmas/RiderProjects/Search Engine copy/Search Engine/bin/Debug/net5.0/Search Engine.runtimeconfig.json
+/Users/jeandedalmas/RiderProjects/Search Engine copy/Search Engine/bin/Debug/net5.0/Search Engine.runtimeconfig.dev.json
+/Users/jeandedalmas/RiderProjects/Search Engine copy/Search Engine/bin/Debug/net5.0/Search Engine.dll
+/Users/jeandedalmas/RiderProjects/Search Engine copy/Search Engine/bin/Debug/net5.0/ref/Search Engine.dll
+/Users/jeandedalmas/RiderProjects/Search Engine copy/Search Engine/bin/Debug/net5.0/Search Engine.pdb
+/Users/jeandedalmas/RiderProjects/Search Engine copy/Search Engine/bin/Debug/net5.0/CsvHelper.dll
+/Users/jeandedalmas/RiderProjects/Search Engine copy/Search Engine/obj/Debug/net5.0/Search Engine.csprojAssemblyReference.cache
+/Users/jeandedalmas/RiderProjects/Search Engine copy/Search Engine/obj/Debug/net5.0/Search Engine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeandedalmas/RiderProjects/Search Engine copy/Search Engine/obj/Debug/net5.0/Search Engine.AssemblyInfoInputs.cache
+/Users/jeandedalmas/RiderProjects/Search Engine copy/Search Engine/obj/Debug/net5.0/Search Engine.AssemblyInfo.cs
+/Users/jeandedalmas/RiderProjects/Search Engine copy/Search Engine/obj/Debug/net5.0/Search Engine.csproj.CoreCompileInputs.cache
+/Users/jeandedalmas/RiderProjects/Search Engine copy/Search Engine/obj/Debug/net5.0/Search Engine.csproj.CopyComplete
+/Users/jeandedalmas/RiderProjects/Search Engine copy/Search Engine/obj/Debug/net5.0/Search Engine.dll
+/Users/jeandedalmas/RiderProjects/Search Engine copy/Search Engine/obj/Debug/net5.0/ref/Search Engine.dll
+/Users/jeandedalmas/RiderProjects/Search Engine copy/Search Engine/obj/Debug/net5.0/Search Engine.pdb
+/Users/jeandedalmas/RiderProjects/Search Engine copy/Search Engine/obj/Debug/net5.0/Search Engine.genruntimeconfig.cache
